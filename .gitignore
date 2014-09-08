@@ -1,5 +1,6 @@
 # compare 
 git-log.txt
+tempfile.txt
 .DS_STORE
 *.zip
 *.gz
