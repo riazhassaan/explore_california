@@ -1,0 +1,23 @@
+commit c8c9efee821e0959cabe3b96da746724416ce18c
+Author: hassaan <hassaan.riaz@mezino.com>
+Date:   Sat Sep 6 13:21:26 2014 +0500
+
+    Remove contractions from contact page text
+
+commit 1dee88866b1a5260073ab1a247c5a70b93bdecd8
+Author: hassaan <hassaan.riaz@mezino.com>
+Date:   Sat Sep 6 13:20:26 2014 +0500
+
+    Renamed Backpack File for clarity
+
+commit 79bd11c589f6d120ca58f4f5bdbd641e6af690f3
+Author: hassaan <hassaan.riaz@mezino.com>
+Date:   Sat Sep 6 12:21:41 2014 +0500
+
+    Changed 24 hours support number to 4314
+
+commit 026dc394a246114ecea860ab9c5eface467e4c24
+Author: hassaan <hassaan.riaz@mezino.com>
+Date:   Sat Sep 6 12:02:22 2014 +0500
+
+    Initial Commit
